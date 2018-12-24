@@ -1,2 +1,3 @@
 # hello-world
-try the first repository
+
+this is a tryout along with the tutorial
